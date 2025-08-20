@@ -50,7 +50,7 @@ class MyHomePage extends StatelessWidget {
         ),
       ),
       bottomNavigationBar: BottomAppBar(
-        color: Colors.blue,
+        color: Colors.red,
         child: Padding(
           padding: const EdgeInsets.all(16.0),
           child: const Text(
